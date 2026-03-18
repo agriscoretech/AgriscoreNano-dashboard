@@ -3,7 +3,7 @@ import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import Devices from './pages/Devices';
 import SensorData from './pages/SensorData';
- import FarmerDashboard from "./pages/FarmerDashboard";
+ import FarmerDashboard from "./pages/Farmerdashboard";
 import AddDevice from "./pages/AddDevice";
 import { BrowserRouter, Routes,Route } from 'react-router-dom';
 
